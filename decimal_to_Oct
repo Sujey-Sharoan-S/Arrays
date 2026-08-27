@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int A;
+    printf("Enter the decimal Number: ");
+    scanf("%d", A);
+
+    
+}
